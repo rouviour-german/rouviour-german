@@ -19,7 +19,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rouviourgermanmeetings@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rouviour-german-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rouviour-german)
+
 [![Profile](https://img.shields.io/badge/Profile-rouviour--german-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rouviour-german)
 
 </div>
