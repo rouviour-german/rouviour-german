@@ -19,6 +19,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rouviourgermanmeetings@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-rouviour-german-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rouviour-german)
 [![Profile](https://img.shields.io/badge/Profile-rouviour--german-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rouviour-german)
 
 </div>
@@ -334,13 +335,61 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Awards & Achievements
+
+<sub>GitHub surfaces achievements on your profile automatically — this section showcases platform recognition, contribution milestones, and portfolio highlights.</sub>
+
+### 🎖️ GitHub Platform Recognition
+
+<div align="center">
+
+<a href="https://github.com/rouviour-german?tab=achievements">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rouviour-german&theme=radical" alt="GitHub Profile Details" width="98%" />
+</a>
+
+<br/><br/>
+
+[![Achievements](https://img.shields.io/badge/View-GitHub_Achievements-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviour-german?tab=achievements)
+[![Trophies](https://img.shields.io/badge/View-Profile_Trophies-FF6B35?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviour-german)
+
+</div>
+
+| Recognition | Status |
+|:------------|:-------|
+| **Public Repositories** | 100+ production & research projects |
+| **Contribution Graph** | Consistent daily activity (2024–2026) |
+| **Agentic AI Portfolio** | 80+ autonomous systems published |
+| **Open Source Maintainer** | Active multi-repo architecture & releases |
+
+### 🥇 Contribution Milestones
+
+<div align="center">
+
+![Repositories](https://img.shields.io/badge/Repositories-100%2B-00D9FF?style=for-the-badge&labelColor=0a0a0a)
+![Contributions](https://img.shields.io/badge/Contributions-2000%2B-FF6B35?style=for-the-badge&labelColor=0a0a0a)
+![Streak](https://img.shields.io/badge/Activity-2024→2026-7B2FBE?style=for-the-badge&labelColor=0a0a0a)
+![Multi-Agent](https://img.shields.io/badge/Focus-Multi--Agent_AI-00C853?style=for-the-badge&labelColor=0a0a0a)
+
+</div>
+
+### 🏅 GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=rouviour-german&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 
 </div>
+
+### 📌 How GitHub Achievements Work
+
+GitHub awards **profile achievements** (badges like *Pull Shark*, *YOLO*, *Quickdraw*) when you:
+
+- Merge pull requests and review code
+- Fix issues and participate in discussions
+- Ship consistent commits across repositories
+- Use GitHub features (Actions, security, co-authors)
+
+**To showcase them:** they appear on [your Achievements tab](https://github.com/rouviour-german?tab=achievements) and in the profile sidebar once earned. This README uses **trophy cards** and **stats widgets** that update automatically from your public activity.
 
 ---
 
