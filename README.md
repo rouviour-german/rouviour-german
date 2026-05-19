@@ -363,7 +363,7 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-rouviour-german-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviour-german)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-rouviour--german-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviour-german)
 [![Email](https://img.shields.io/badge/📧_Business_Inquiry-Email-D14836?style=for-the-badge&labelColor=0a0a0a)](mailto:rouviourgermanmeetings@gmail.com)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-rouviour--german-181717?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviour-german)
 
