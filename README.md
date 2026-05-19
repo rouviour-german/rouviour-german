@@ -19,7 +19,6 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rouviourgermanmeetings@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rouviour-german-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rouviour-german)
 [![Profile](https://img.shields.io/badge/Profile-rouviour--german-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rouviour-german)
 
 </div>
@@ -379,18 +378,6 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 <img src="https://github-profile-trophy.vercel.app/?username=rouviour-german&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 
 </div>
-
-### 📌 How GitHub Achievements Work
-
-GitHub awards **profile achievements** (badges like *Pull Shark*, *YOLO*, *Quickdraw*) when you:
-
-- Merge pull requests and review code
-- Fix issues and participate in discussions
-- Ship consistent commits across repositories
-- Use GitHub features (Actions, security, co-authors)
-
-**To showcase them:** they appear on [your Achievements tab](https://github.com/rouviour-german?tab=achievements) and in the profile sidebar once earned. This README uses **trophy cards** and **stats widgets** that update automatically from your public activity.
-
 ---
 
 ## 🔬 What Sets Me Apart
