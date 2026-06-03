@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi%2C+I'm+rouviour-german+%F0%9F%91%8B;Architecting+Autonomous+Intelligence+at+Scale" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi%2C+I'm+rouviere-german+%F0%9F%91%8B;Architecting+Autonomous+Intelligence+at+Scale" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -18,8 +18,8 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rouviourgermanmeetings@gmail.com)
-[![Profile](https://img.shields.io/badge/Profile-rouviour--german-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rouviour-german)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rouvieregermanmeetings@gmail.com)
+[![Profile](https://img.shields.io/badge/Profile-rouviere--german-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rouviere-german)
 
 </div>
 
@@ -47,7 +47,7 @@ My systems don't just respond — **they think.**
 <tr>
 <td width="50%">
 
-### 🔴 [AegisCore-DevOps](https://github.com/rouviour-german/AegisCore-DevOps)
+### 🔴 [AegisCore-DevOps](https://github.com/rouviere-german/AegisCore-DevOps)
 **A-SOC — Autonomous Threat Intelligence & Mitigation**
 
 An agentic, cloud-native security platform that autonomously detects, analyzes, and mitigates threats using LLM-powered multi-agent reasoning with real-time visibility and blast-radius analysis.
@@ -57,7 +57,7 @@ An agentic, cloud-native security platform that autonomously detects, analyzes, 
 </td>
 <td width="50%">
 
-### ⚙️ [DevOps-AI-Engineer-Agent](https://github.com/rouviour-german/DevOps-AI-Engineer-Agent)
+### ⚙️ [DevOps-AI-Engineer-Agent](https://github.com/rouviere-german/DevOps-AI-Engineer-Agent)
 **Autonomous DevOps Operating System**
 
 An autonomous AI-powered DevOps system that orchestrates CI/CD, PR reviews, site reliability, architecture decisions, and incident management — without waking up human engineers at 3 AM.
@@ -69,7 +69,7 @@ An autonomous AI-powered DevOps system that orchestrates CI/CD, PR reviews, site
 <tr>
 <td width="50%">
 
-### 🗡️ [Mantis-AI](https://github.com/rouviour-german/Mantis-AI)
+### 🗡️ [Mantis-AI](https://github.com/rouviere-german/Mantis-AI)
 **The Future of Offensive Security**
 
 Orchestrated by Autonomous AI Agents — automating phishing detection, polymorphic malware analysis, and penetration testing through multi-agent collaboration.
@@ -79,7 +79,7 @@ Orchestrated by Autonomous AI Agents — automating phishing detection, polymorp
 </td>
 <td width="50%">
 
-### 🔍 [Helix-AI-Orchestrator](https://github.com/rouviour-german/Helix-AI-Orchestrator)
+### 🔍 [Helix-AI-Orchestrator](https://github.com/rouviere-german/Helix-AI-Orchestrator)
 **TitanAI — Deep Code Auditing**
 
 A premium autonomous system for deep code auditing using LangGraph-based cyclic architecture with 11 specialized reasoning nodes mirroring senior engineer cognition.
@@ -98,7 +98,7 @@ A premium autonomous system for deep code auditing using LangGraph-based cyclic 
 <tr>
 <td width="50%">
 
-### 📊 [AI-powered-Sales-CRM-Agent](https://github.com/rouviour-german/AI-powered-Sales-CRM-Agent)
+### 📊 [AI-powered-Sales-CRM-Agent](https://github.com/rouviere-german/AI-powered-Sales-CRM-Agent)
 **SalesIQ — Autonomous Revenue Engine**
 
 Not just a CRM tool — a specialized revenue engine built on Model Context Protocol (MCP), powered by LangGraph + CrewAI, automating the high-friction parts of the sales lifecycle.
@@ -108,7 +108,7 @@ Not just a CRM tool — a specialized revenue engine built on Model Context Prot
 </td>
 <td width="50%">
 
-### 🧠 [Autonomous-Multi-Agent-Orchestration-for-Business-Synthesis](https://github.com/rouviour-german/Autonomous-Multi-Agent-Orchestration-for-Business-Synthesis)
+### 🧠 [Autonomous-Multi-Agent-Orchestration-for-Business-Synthesis](https://github.com/rouviere-german/Autonomous-Multi-Agent-Orchestration-for-Business-Synthesis)
 **Nexus Intelligence — Meeting-to-Action Pipeline**
 
 Turns messy conversations into clear, machine-readable insights using autonomous AI agents, extracting strategic intelligence instead of just transcribing.
@@ -120,7 +120,7 @@ Turns messy conversations into clear, machine-readable insights using autonomous
 <tr>
 <td width="50%">
 
-### 🎤 [Meeting-Intelligence-Agent](https://github.com/rouviour-german/Meeting-Intelligence-Agent)
+### 🎤 [Meeting-Intelligence-Agent](https://github.com/rouviere-german/Meeting-Intelligence-Agent)
 **Unstructured Audio → Actionable Logic**
 
 A modular, multi-agent AI system that transforms raw business conversations into high-impact actionable intelligence with strategic distillation.
@@ -130,7 +130,7 @@ A modular, multi-agent AI system that transforms raw business conversations into
 </td>
 <td width="50%">
 
-### 📬 [Outreach-Pro-Agent](https://github.com/rouviour-german/Outreach-Pro-Agent)
+### 📬 [Outreach-Pro-Agent](https://github.com/rouviere-german/Outreach-Pro-Agent)
 **Precision Targeting Platform**
 
 High-precision targeting system leveraging Kimi 2.5 and real-time data enrichment to transform cold outreach into data-enriched strategic engagements.
@@ -149,7 +149,7 @@ High-precision targeting system leveraging Kimi 2.5 and real-time data enrichmen
 <tr>
 <td width="50%">
 
-### 🏛️ [Legal-Assistant-Agent-with-MCP](https://github.com/rouviour-german/Legal-Assistant-Agent-with-MCP)
+### 🏛️ [Legal-Assistant-Agent-with-MCP](https://github.com/rouviere-german/Legal-Assistant-Agent-with-MCP)
 **LexPilot — AI Legal Intelligence**
 
 An AI-powered legal platform automating contract review, legal research, document drafting, deadline tracking, and billing for modern law firms.
@@ -159,7 +159,7 @@ An AI-powered legal platform automating contract review, legal research, documen
 </td>
 <td width="50%">
 
-### 🏥 [ClaimOS](https://github.com/rouviour-german/ClaimOS)
+### 🏥 [ClaimOS](https://github.com/rouviere-german/ClaimOS)
 **ClaimOS — 4-Day to 4-Minute Processing**
 
 Enterprise-grade AI system that transforms insurance claims processing from a 4-day manual workflow into a 4-minute automated decision pipeline.
@@ -171,7 +171,7 @@ Enterprise-grade AI system that transforms insurance claims processing from a 4-
 <tr>
 <td width="50%">
 
-### 📈 [Stock-Agent](https://github.com/rouviour-german/Stock-Agent)
+### 📈 [Stock-Agent](https://github.com/rouviere-german/Stock-Agent)
 **Multi-Agent Stock Market Simulation**
 
 A research-grade, multi-agent AI system simulating a fully functional stock market — where every trader is powered by a Large Language Model.
@@ -181,7 +181,7 @@ A research-grade, multi-agent AI system simulating a fully functional stock mark
 </td>
 <td width="50%">
 
-### 🛒 [Shopping-GPT](https://github.com/rouviour-german/Shopping-GPT)
+### 🛒 [Shopping-GPT](https://github.com/rouviere-german/Shopping-GPT)
 **Agentic E-Commerce Intelligence**
 
 A production-ready, agentic AI chatbot for e-commerce — routing conversations through semantic classifiers, dispatching to specialized LangChain tools.
@@ -200,7 +200,7 @@ A production-ready, agentic AI chatbot for e-commerce — routing conversations 
 <tr>
 <td width="50%">
 
-### 🎓 [CogniLearn-AI](https://github.com/rouviour-german/CogniLearn-AI)
+### 🎓 [CogniLearn-AI](https://github.com/rouviere-german/CogniLearn-AI)
 **Autonomous AI Tutor Ecosystem**
 
 Powered by LangGraph & CrewAI — delivering hyper-personalized lessons, intelligent quizzes, and 24/7 doubt resolution through multi-agent collaboration.
@@ -210,7 +210,7 @@ Powered by LangGraph & CrewAI — delivering hyper-personalized lessons, intelli
 </td>
 <td width="50%">
 
-### 📱 [Social-Media-Autopilot-Agent-with-MCP](https://github.com/rouviour-german/Social-Media-Autopilot-Agent-with-MCP)
+### 📱 [Social-Media-Autopilot-Agent-with-MCP](https://github.com/rouviere-german/Social-Media-Autopilot-Agent-with-MCP)
 **SocialPilot — Autonomous Marketing**
 
 Enterprise-grade autonomous system handling the entire lifecycle of social media marketing — from trend discovery to content creation, safety validation, and automated scheduling.
@@ -222,7 +222,7 @@ Enterprise-grade autonomous system handling the entire lifecycle of social media
 <tr>
 <td width="50%">
 
-### 💼 [NexusHire-AI-Agent](https://github.com/rouviour-german/NexusHire-AI-Agent)
+### 💼 [NexusHire-AI-Agent](https://github.com/rouviere-german/NexusHire-AI-Agent)
 **EliteApply AI — Job Application Agent**
 
 A next-generation autonomous agent revolutionizing the job application process using the cutting-edge sentient framework with Large Multimodal Models.
@@ -232,7 +232,7 @@ A next-generation autonomous agent revolutionizing the job application process u
 </td>
 <td width="50%">
 
-### 📝 [The-Autonomous-Editorial-Suite](https://github.com/rouviour-german/The-Autonomous-Editorial-Suite)
+### 📝 [The-Autonomous-Editorial-Suite](https://github.com/rouviere-german/The-Autonomous-Editorial-Suite)
 **QuantumContent — 6-Agent Content Pipeline**
 
 An industrial-grade Autonomous Editorial Suite replacing fragmented content workflows with a unified, 6-agent cognitive pipeline.
@@ -251,7 +251,7 @@ An industrial-grade Autonomous Editorial Suite replacing fragmented content work
 <tr>
 <td width="50%">
 
-### 🔄 [AI-Operations-Manager-Agent](https://github.com/rouviour-german/AI-Operations-Manager-Agent)
+### 🔄 [AI-Operations-Manager-Agent](https://github.com/rouviere-german/AI-Operations-Manager-Agent)
 **OpsManager — 24/7 Workflow Intelligence**
 
 An Agentic AI layer for autonomous workflow optimization — replacing static dashboards with real-time perception-action loops to identify inefficiencies and self-heal.
@@ -261,7 +261,7 @@ An Agentic AI layer for autonomous workflow optimization — replacing static da
 </td>
 <td width="50%">
 
-### 📊 [The-Intelligent-Semantic-Layer-for-Modern-Data-Teams](https://github.com/rouviour-german/The-Intelligent-Semantic-Layer-for-Modern-Data-Teams)
+### 📊 [The-Intelligent-Semantic-Layer-for-Modern-Data-Teams](https://github.com/rouviere-german/The-Intelligent-Semantic-Layer-for-Modern-Data-Teams)
 **SQL AI — Autonomous Data Analyst**
 
 A premium, autonomous Data Analyst bridging complex databases and executive decision-making. No SQL, no bottlenecks — just raw intelligence.
@@ -273,7 +273,7 @@ A premium, autonomous Data Analyst bridging complex databases and executive deci
 <tr>
 <td width="50%">
 
-### ⚡ [QuantumOps-AI](https://github.com/rouviour-german/QuantumOps-AI)
+### ⚡ [QuantumOps-AI](https://github.com/rouviere-german/QuantumOps-AI)
 **Enterprise SaaS Task Orchestration**
 
 Backend-first enterprise SaaS platform for intelligent task orchestration and AI-driven business process execution with event-driven architecture.
@@ -283,7 +283,7 @@ Backend-first enterprise SaaS platform for intelligent task orchestration and AI
 </td>
 <td width="50%">
 
-### 📈 [OmniMetrics-AI](https://github.com/rouviour-german/OmniMetrics-AI)
+### 📈 [OmniMetrics-AI](https://github.com/rouviere-german/OmniMetrics-AI)
 **AI-Driven SaaS Analytics**
 
 High-performance multi-tenant SaaS analytics platform delivering real-time insights, predictive analytics, and intelligent reporting at enterprise scale.
@@ -315,20 +315,20 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rouviour-german&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF6B35&text_color=c9d1d9&ring_color=00D9FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouviour-german&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rouviere-german&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF6B35&text_color=c9d1d9&ring_color=00D9FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouviere-german&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rouviour-german&theme=radical&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555555" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rouviere-german&theme=radical&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555555" width="70%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rouviour-german&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=FF6B35&point=00D9FF&area=true&area_color=00D9FF" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rouviere-german&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=FF6B35&point=00D9FF&area=true&area_color=00D9FF" width="95%" />
 
 </div>
 
@@ -342,14 +342,14 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 <div align="center">
 
-<a href="https://github.com/rouviour-german?tab=achievements">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rouviour-german&theme=radical" alt="GitHub Profile Details" width="98%" />
+<a href="https://github.com/rouviere-german?tab=achievements">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rouviere-german&theme=radical" alt="GitHub Profile Details" width="98%" />
 </a>
 
 <br/><br/>
 
-[![Achievements](https://img.shields.io/badge/View-GitHub_Achievements-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviour-german?tab=achievements)
-[![Trophies](https://img.shields.io/badge/View-Profile_Trophies-FF6B35?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviour-german)
+[![Achievements](https://img.shields.io/badge/View-GitHub_Achievements-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviere-german?tab=achievements)
+[![Trophies](https://img.shields.io/badge/View-Profile_Trophies-FF6B35?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviere-german)
 
 </div>
 
@@ -375,7 +375,7 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rouviour-german&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=rouviere-german&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 
 </div>
 ---
@@ -398,9 +398,9 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-rouviour--german-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviour-german)
-[![Email](https://img.shields.io/badge/📧_Business_Inquiry-Email-D14836?style=for-the-badge&labelColor=0a0a0a)](mailto:rouviourgermanmeetings@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-rouviour--german-181717?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviour-german)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-rouviere--german-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviere-german)
+[![Email](https://img.shields.io/badge/📧_Business_Inquiry-Email-D14836?style=for-the-badge&labelColor=0a0a0a)](mailto:rouvieregermanmeetings@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-rouviere--german-181717?style=for-the-badge&labelColor=0a0a0a)](https://github.com/rouviere-german)
 
 </div>
 
@@ -412,7 +412,7 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rouviour-german&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=rouviere-german&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
